@@ -48,7 +48,7 @@
     "moment": "^2.24.0",
     "node-sass": "^4.14.1",
     "nyc": "^15.0.1",
-    "prismjs": "^1.21.0",
+    "prismjs": "^1.23.0",
     "remove-source-webpack-plugin": "^0.1.1",
     "sass-loader": "^8.0.0",
     "sortablejs": "^1.7.0",
